@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BinaryEMVS"]
 	path = BinaryEMVS
 	url = https://github.com/cran/BinaryEMVS
-	shallow = true
-	registered = true
 [submodule "OBMbpkg"]
 	path = OBMbpkg
 	url = https://github.com/cran/OBMbpkg
-	shallow = true
-	registered = true
